@@ -1,0 +1,15 @@
+C:\Users\ict\Desktop\code-TRA\PhoneBookSystem\PhoneBookSystem\bin\Debug\net6.0\PhoneBookSystem.exe
+C:\Users\ict\Desktop\code-TRA\PhoneBookSystem\PhoneBookSystem\bin\Debug\net6.0\PhoneBookSystem.deps.json
+C:\Users\ict\Desktop\code-TRA\PhoneBookSystem\PhoneBookSystem\bin\Debug\net6.0\PhoneBookSystem.runtimeconfig.json
+C:\Users\ict\Desktop\code-TRA\PhoneBookSystem\PhoneBookSystem\bin\Debug\net6.0\PhoneBookSystem.dll
+C:\Users\ict\Desktop\code-TRA\PhoneBookSystem\PhoneBookSystem\bin\Debug\net6.0\PhoneBookSystem.pdb
+C:\Users\ict\Desktop\code-TRA\PhoneBookSystem\PhoneBookSystem\obj\Debug\net6.0\PhoneBookSystem.csproj.AssemblyReference.cache
+C:\Users\ict\Desktop\code-TRA\PhoneBookSystem\PhoneBookSystem\obj\Debug\net6.0\PhoneBookSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ict\Desktop\code-TRA\PhoneBookSystem\PhoneBookSystem\obj\Debug\net6.0\PhoneBookSystem.AssemblyInfoInputs.cache
+C:\Users\ict\Desktop\code-TRA\PhoneBookSystem\PhoneBookSystem\obj\Debug\net6.0\PhoneBookSystem.AssemblyInfo.cs
+C:\Users\ict\Desktop\code-TRA\PhoneBookSystem\PhoneBookSystem\obj\Debug\net6.0\PhoneBookSystem.csproj.CoreCompileInputs.cache
+C:\Users\ict\Desktop\code-TRA\PhoneBookSystem\PhoneBookSystem\obj\Debug\net6.0\PhoneBookSystem.dll
+C:\Users\ict\Desktop\code-TRA\PhoneBookSystem\PhoneBookSystem\obj\Debug\net6.0\refint\PhoneBookSystem.dll
+C:\Users\ict\Desktop\code-TRA\PhoneBookSystem\PhoneBookSystem\obj\Debug\net6.0\PhoneBookSystem.pdb
+C:\Users\ict\Desktop\code-TRA\PhoneBookSystem\PhoneBookSystem\obj\Debug\net6.0\PhoneBookSystem.genruntimeconfig.cache
+C:\Users\ict\Desktop\code-TRA\PhoneBookSystem\PhoneBookSystem\obj\Debug\net6.0\ref\PhoneBookSystem.dll
